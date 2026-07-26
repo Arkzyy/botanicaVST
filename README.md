@@ -1,4 +1,4 @@
-# Botanica (Demo)
+# 🌸Botanica (Demo)🌸
 
 A botanical texture and spectral effect for pads, vocals, textures and anything you want to bloom. Drop it on a track and it takes the sound apart by frequency and puts it back in key.
 
