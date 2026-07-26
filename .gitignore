@@ -1,3 +1,10 @@
+# installers live on the Releases page, not in the repo tree
+downloads/
+*.exe
+*.pkg
+*.tar.gz
+*.zip
+
 # OS cruft
 .DS_Store
 Thumbs.db
