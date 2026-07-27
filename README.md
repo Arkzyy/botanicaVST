@@ -56,7 +56,7 @@ Then rescan in your DAW (Reaper, Bitwig, Ardour…).
 
 ## Get the full version
 
-The full version has no time limit. **https://arkzy.art**
+The full version has no time limit. **[arkzy.art](https://arkzy.art)**
 
 Questions, bug reports, or just wanna say hi: **arkzy on Discord**.
 
