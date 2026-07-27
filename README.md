@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="img/botanica_header_v1.png" alt="Botanica" width="100%">
+</p>
+
+
 # 🌸Botanica (Demo)🌸
 
 A botanical texture and spectral effect for pads, vocals, textures and anything you want to bloom. Drop it on a track and it takes the sound apart by frequency and puts it back in key.
@@ -51,7 +56,7 @@ Then rescan in your DAW (Reaper, Bitwig, Ardour…).
 
 ## Get the full version
 
-The full version has no time limit. **[ your Lemon Squeezy / Gumroad link here ]**
+The full version has no time limit. **https://payhip.com/b/PuIWU**
 
 Questions, bug reports, or just wanna say hi: **arkzy on Discord**.
 
